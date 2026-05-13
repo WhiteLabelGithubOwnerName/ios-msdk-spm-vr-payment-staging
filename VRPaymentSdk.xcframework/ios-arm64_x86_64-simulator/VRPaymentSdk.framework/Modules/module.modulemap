@@ -1,0 +1,6 @@
+framework module VRPaymentSdk {
+  umbrella header "VRPaymentSdk.h"
+  export *
+
+  module * { export * }
+}
