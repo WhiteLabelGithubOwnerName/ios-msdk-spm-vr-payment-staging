@@ -182,7 +182,7 @@
 		</data>
 		<key>Frameworks/TwintSDK.framework/TwintSDK</key>
 		<data>
-		qdIEDQz4fDdCIQuDKYyZiB9cYwM=
+		nLHE4D8fjb07d0YodxPyRBbN+n0=
 		</data>
 		<key>Frameworks/TwintSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -198,11 +198,11 @@
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		w0pKWQ0PLozcytu2tS0Ndo8dqE8=
+		ZE42uitQ4EAqs5m2vmTyA99/Bvs=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		M5X7VpIEfhWTpOxHwv3qRpx1H38=
+		ZV3ODQy8UpZ2lg+72rn8+Xt0mQE=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -623,7 +623,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D5b5ww+yFfIRlILkKYnM/qgCFKIRhDnMaKV6Y4cvGfc=
+			a5Ke7ExVAUs88UWUgGAlX66uYQbAgciyhrJnl1wKtFg=
 			</data>
 		</dict>
 		<key>Frameworks/TwintSDK.framework/_CodeSignature/CodeResources</key>
@@ -644,14 +644,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ef5Ba7JFJOC5mNEYe8aQuy6gHrIkie0vUnK/fNK/x6w=
+			37gpz6RkKnBs4Im2UIsa2lRWQ536Yw6G1xyNPRF3XN8=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/PufetxiNwCDuDrY8U2jSEZQ2nrgqhTEC03vGzcRf1g=
+			v85CHKHruIO+XaQYWIPlxLGR0ZvZI1jvazxAS+umiG0=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
