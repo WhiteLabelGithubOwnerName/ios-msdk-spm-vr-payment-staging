@@ -73,6 +73,7 @@ public struct PaymentResult {
 @_hasMissingDesignatedInitializers public class PaymentSdk {
   public static let shared: VRPaymentSdk.PaymentSdk
   public static let SDK_VERSION: Swift.String
+  public static let SDK_DEPENDENCIES_VERSION: Swift.String
   public static func onHandleOpenURL(url: Foundation.URL) -> Swift.Bool
   public func initialize()
   public func resultObserver(eventObserver: any VRPaymentSdk.PaymentResultObserver)

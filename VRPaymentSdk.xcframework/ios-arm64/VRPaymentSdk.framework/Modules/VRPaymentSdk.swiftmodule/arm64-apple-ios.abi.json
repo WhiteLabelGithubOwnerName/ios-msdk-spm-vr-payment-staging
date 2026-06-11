@@ -1990,6 +1990,20 @@
       },
       {
         "kind": "Import",
+        "name": "TwintSDK",
+        "printedName": "TwintSDK",
+        "declKind": "Import",
+        "moduleName": "VRPaymentSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "ThreeDS_SDK",
+        "printedName": "ThreeDS_SDK",
+        "declKind": "Import",
+        "moduleName": "VRPaymentSdk"
+      },
+      {
+        "kind": "Import",
         "name": "ReactBrownfield",
         "printedName": "ReactBrownfield",
         "declKind": "Import",
@@ -2092,6 +2106,57 @@
                 "declKind": "Accessor",
                 "usr": "s:12VRPaymentSdk07PaymentB0C11SDK_VERSIONSSvgZ",
                 "mangledName": "$s12VRPaymentSdk07PaymentB0C11SDK_VERSIONSSvgZ",
+                "moduleName": "VRPaymentSdk",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "SDK_DEPENDENCIES_VERSION",
+            "printedName": "SDK_DEPENDENCIES_VERSION",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12VRPaymentSdk07PaymentB0C24SDK_DEPENDENCIES_VERSIONSSvpZ",
+            "mangledName": "$s12VRPaymentSdk07PaymentB0C24SDK_DEPENDENCIES_VERSIONSSvpZ",
+            "moduleName": "VRPaymentSdk",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12VRPaymentSdk07PaymentB0C24SDK_DEPENDENCIES_VERSIONSSvgZ",
+                "mangledName": "$s12VRPaymentSdk07PaymentB0C24SDK_DEPENDENCIES_VERSIONSSvgZ",
                 "moduleName": "VRPaymentSdk",
                 "static": true,
                 "implicit": true,
@@ -2850,23 +2915,6 @@
             "mangledName": "$sSH"
           }
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "VRPaymentSdk",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "VRPaymentSdk"
       },
       {
         "kind": "Import",
@@ -5808,35 +5856,84 @@
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 289,
+      "offset": 324,
       "length": 7,
-      "value": "\"2.0.3\""
+      "value": "\"2.0.0\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 431,
+      "offset": 436,
+      "length": 27,
+      "value": "\"com.netcetera.ThreeDS-SDK\""
+    },
+    {
+      "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
+      "kind": "StringLiteral",
+      "offset": 493,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
+      "kind": "StringLiteral",
+      "offset": 537,
+      "length": 9,
+      "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
+      "kind": "StringLiteral",
+      "offset": 560,
+      "length": 75,
+      "value": "\"TwintSDK: \""
+    },
+    {
+      "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
+      "kind": "StringLiteral",
+      "offset": 592,
+      "length": 9,
+      "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 1,
+      "value": "\", ThreeDS_SDK: \""
+    },
+    {
+      "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
+      "kind": "StringLiteral",
+      "offset": 634,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
+      "kind": "StringLiteral",
+      "offset": 776,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 458,
+      "offset": 803,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 494,
+      "offset": 839,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/UeY0n1JvT\/0\/frontend\/payment-mobile-sdk\/ios\/sdk\/PaymentSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 536,
+      "offset": 881,
       "length": 5,
       "value": "false"
     },

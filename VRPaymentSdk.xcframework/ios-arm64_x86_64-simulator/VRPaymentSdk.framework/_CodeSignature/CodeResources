@@ -14,19 +14,19 @@
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		RbhMdhUQPA+0v2UVE9QxVDLgT70=
+		PkEu64Epky42tha3OwdgkkOzLHE=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		II+/iEEs0ddJigQqNtMSjE5OX4g=
+		TKyTmKl4O0PgHEyhEHRiBafBjDk=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		4luC6CSqJzt0bEshaHGiXw4hi1c=
+		wNoDt5srhj0jCGM/OvErTQkx+rw=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		++NxGEPR+1c1Bn3P3AurRWWH+HQ=
+		daUwlocCcnC2Hab2Etsim5GRjbM=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		++NxGEPR+1c1Bn3P3AurRWWH+HQ=
+		daUwlocCcnC2Hab2Etsim5GRjbM=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TYwTLM8KQanHUiUmtG0E/FVfzmQ=
+		IGWix8RLcyefwkhWYFQJG6ndGoI=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		4luC6CSqJzt0bEshaHGiXw4hi1c=
+		wNoDt5srhj0jCGM/OvErTQkx+rw=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ViqCTntZzyfHRvX5GSC8pjE9fis=
+		tCez4lxSz6Ujx+8LEa3Racd8OK0=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ViqCTntZzyfHRvX5GSC8pjE9fis=
+		tCez4lxSz6Ujx+8LEa3Racd8OK0=
 		</data>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		e0z6g79AB4NOFoxMBLdjK5YeUxE=
+		5X/gkoVljBAbjN96niFVYPMX0E8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		bbXRCn5ks+g2nQ9wk5LYT/EWh/I=
+		9nar6u+c8anPoPExwNPXW4+5cmk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -138,28 +138,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQXu8Qfumanh2yy5iqKaGImPwD1CFAnBgUnRWRkV/o4=
+			92FM0IFJNSoHxlAVZMPb5o83fyXyvpTS2c5ka4xyFww=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vvmmtZWNMzKMggaWvYQ5SdTcuEgMQ+qbmfT6KLNpbVE=
+			sOWkhmNnpOu4WOsg+bsTYWcnBsaMazIfkMr9oGwe5wc=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b55twZHr9YqZaUALJ7nLLMpVHc1cbDjBLUYxrScTFB4=
+			p7Hf7aqO8UY94tJFuvf1pmrn45JXyErUpnwG//zXgh8=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3LySScYdiOiaogMoBvHvIFp3Tjszmy2AveCVMsCmYww=
+			3IbyXmBgZrjj07r0MWXXL9+slQYTncdV5ahY64IFRKQ=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -173,28 +173,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3LySScYdiOiaogMoBvHvIFp3Tjszmy2AveCVMsCmYww=
+			3IbyXmBgZrjj07r0MWXXL9+slQYTncdV5ahY64IFRKQ=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BeyMn3T5X6n2x7F3XvOgy/pk05Rxdv82w7glZIK94/0=
+			QCGyKDXTeOAKyNuKuY1fIRQEluUv/V3mDDJpRieH8a8=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b55twZHr9YqZaUALJ7nLLMpVHc1cbDjBLUYxrScTFB4=
+			p7Hf7aqO8UY94tJFuvf1pmrn45JXyErUpnwG//zXgh8=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OGh57+tZX2koU9eTVLAqcxkFdG9ZtqD0VPd/5nRJemg=
+			KSM5brQXs8OLP+mMBX2qjUveMBpOdCIe7TvnYmDLLDw=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -208,14 +208,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OGh57+tZX2koU9eTVLAqcxkFdG9ZtqD0VPd/5nRJemg=
+			KSM5brQXs8OLP+mMBX2qjUveMBpOdCIe7TvnYmDLLDw=
 			</data>
 		</dict>
 		<key>Modules/VRPaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+dVFjx5HgBms8dbJXOVaxAGZDswvdYZp7zOWi/hNMFY=
+			FvUeND540qPF3WEMe+oeMXddcpCaTkEFx+zNqd+9OPc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -327,7 +327,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			miLRH+dyXFHfk3xZ+vd7WHqWd3BT/hqMioR1FLjYUEQ=
+			OaS4tXxD2TyAiVm/6ys6B3Y66A53xbrlkH3njuqkAFY=
 			</data>
 		</dict>
 	</dict>
